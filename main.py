@@ -1,1 +1,1 @@
-print("HOW ARE YOU")
+print("fuck")
